@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33242762/README.md)
 # Nano Tech: booking page + admin panel (Netlify)
 
 ```
