@@ -1,9 +1,0 @@
-{
-  "name": "nano-tech",
-  "version": "2.0.0",
-  "private": true,
-  "description": "Nano Tech booking page + admin panel (Netlify, or your own Node server)",
-  "scripts": { "start": "node server.js" },
-  "dependencies": { "@netlify/blobs": ">=8.2.0" },
-  "engines": { "node": ">=18" }
-}
